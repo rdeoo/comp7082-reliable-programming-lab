@@ -52,3 +52,5 @@ Impact: Because this defect exists, loading the cart multiple times could result
 Fix: To fix the code, I cleared the existing cart items before loading the saved items 
 
 ![Test Results](./screenshots/test_results.png)
+![Github Actions 1](./screenshots/github_actions_1.png)
+![Github Actions 2](./screenshots/github_actions_2.png)
